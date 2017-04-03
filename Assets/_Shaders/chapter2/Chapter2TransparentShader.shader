@@ -7,7 +7,7 @@
 		// 标记透明 signal the shader is transparent
 		Tags { 
 			"Queue" = "Transparent"
-			"IgnoreProjector" = "True"
+			//"IgnoreProjector" = "True"
 			"RenderType" = "Transparent"
 		}
 		//LOD 200
